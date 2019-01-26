@@ -73,6 +73,7 @@
 - [Krishna Swaroop] (https://github.com/geekswaroop)
 - [Aman Sanghvi](https://github.com/amansanghvi)
 - [Harsh Gadodia](https://github.com/harshgadodia)
+- [Nitesh Janghu](https://github.com/Janghu1407)
 - [Suyash Patel](https://github.com/suyashpatel98)
 - [Alejandro Montesinos](https://github.com/AlexMontesinos)
 - [Eugene Kriuchkov](https://github.com/kriugen)
